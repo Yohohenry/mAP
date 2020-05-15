@@ -9,4 +9,4 @@ https://github.com/Cartucho/mAP (有寫原理) <br>https://www.jianshu.com/p/5fc
 4. 結果會生成在mAP/output 中
 <br> 
 ps.此測試資料為voc的圖100張，已經放在mAP/input/ground-truth 與/image-optional中 <br> 
-若想增加圖片可以參考上方Cartucho 的github 將檔案轉成特定格式
+若想增加圖片可以參考上方Cartucho 的github 將檔案轉成特定格式或是問我ＸＤ
