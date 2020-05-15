@@ -10,3 +10,7 @@ https://github.com/Cartucho/mAP (有寫原理) <br>https://www.jianshu.com/p/5fc
 <br> 
 ps.此測試資料為voc的圖100張，已經放在mAP/input/ground-truth 與/image-optional中 <br> 
 若想增加圖片可以參考上方Cartucho 的github 將檔案轉成特定格式或是問我😉
+```buildoutcfg
+"model_path": 'mydrive/kerasYoloV3/code/model_data/val_loss23.h5', #訓練好的模型路径
+```
+ 
