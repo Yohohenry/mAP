@@ -1,5 +1,5 @@
-# mAP
-mAP for keras_yolov3 model
+# mAP (mean Average Precision)
+This mAP code will evaluate the performance for keras_yolov3 object detection model
 ## Citation
 https://github.com/Cartucho/mAP (有寫原理) <br>https://www.jianshu.com/p/5fc130e0bc6d (中文版)
 ## Quick start
