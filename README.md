@@ -21,7 +21,7 @@ ps.此測試資料為voc的圖100張，已經放在mAP/input/ground-truth 與/im
 - mAP 需要三個資料放在input中
 1. Ground-truth
 2. Detection-result
-3. images (非必要項)
+3. images
 ### Ground-truth prepare (答案準備)
 1. 將labeling過的xml檔案放入ground-truth資料夾中
 2. 執行mAP/scripts/extra/convert_gt_xml.py 即完成
